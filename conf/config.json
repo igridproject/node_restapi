@@ -1,0 +1,7 @@
+{
+    "service" : {
+        "port" : 1978,
+        "baseHostname":"127.0.0.1:1978",
+        "available" : true
+    }
+}

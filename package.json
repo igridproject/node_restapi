@@ -1,0 +1,30 @@
+{
+  "name": "node_restapi",
+  "description": "",
+  "version": "0.0.1",
+  "main": "./app.js",
+  "author": {
+    "name": "gcs",
+    "email": "you@email.example"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igridproject/node_restapi.git"
+  },
+  "bugs": {
+    "url": "http://github.com/YOUR_LOGIN/node_trbapi/issues"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "dateformat": "^1.0.12",
+    "express": "^4.13.3",
+    "express-winston": "^1.2.0",
+    "query-string": "^3.0.0",
+    "winston": "^2.1.1"
+  }
+}
